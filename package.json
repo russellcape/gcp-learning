@@ -1,4 +1,22 @@
 {
-    "name": "sample-http",
-    "version": "0.0.1"
+  "name": "gcp-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russellcape/gcp-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russellcape/gcp-learning/issues"
+  },
+  "homepage": "https://github.com/russellcape/gcp-learning#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
